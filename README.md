@@ -6,7 +6,8 @@
 
 | Nome | RM |
 |------|----|
-| (preencher) | (preencher) |
+| Conrado Gracie | 569157 |
+| Renato Sandreschi | 569156 |
 
 ## 2. Público e problema escolhidos
 
@@ -176,16 +177,15 @@ Data de verificação registrada na base: **2026-11-13**.
 
 | Indicador | Resultado |
 |-----------|-----------|
-| Pessoas testadas | (preencher) |
-| Total de atendimentos | (preencher) |
-| Resposta encontrada (%) | (preencher) |
-| Taxa de acerto (%) | (preencher) |
-| Tempo médio para encontrar | (preencher) |
-| Tentativas por atendimento | (preencher) |
-| Facilidade de uso (1 a 5) | (preencher) |
+| Pessoas testadas | 3 |
+| Total de atendimentos | 11 |
+| Resposta encontrada (%) | 100 |
+| Taxa de acerto (%) | 90.9 |
+| Tempo médio para encontrar | 59.3s |
+| Tentativas por atendimento | 1.6 |
+| Facilidade de uso (1 a 5) | 4.2 |
 
-- **Dúvidas sem solução:** (copiar da opção 3 do menu)
-- **Melhoria feita a partir do teste:** (ex.: nova palavra-chave adicionada na orientação X)
+- **Melhoria feita a partir do teste:** Documentos: CNH 
 
 ## 14. Limitações
 
@@ -194,7 +194,3 @@ Data de verificação registrada na base: **2026-11-13**.
 - Algumas regras variam por cidade (ex.: cartão de gratuidade no ônibus), então a resposta orienta, mas não substitui o atendimento oficial.
 - Os caminhos dos arquivos são relativos: o programa deve ser executado dentro da pasta do projeto.
 - O assistente **não é canal oficial**.
-
-## 15. Vídeo técnico
-
-Link: (preencher)
